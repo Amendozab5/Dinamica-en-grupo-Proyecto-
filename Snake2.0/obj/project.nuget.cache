@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+7T105rDEI4=",
+  "dgSpecHash": "s1rPtLYpaME=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\Snake2.0\\Snake2.0\\Snake2.0.csproj",
+  "projectFilePath": "C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\Snake2.0\\Snake2.0.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aamen\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512",
     "C:\\Users\\aamen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",

@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\Snake2.0\\",
+  "WorkspaceRootPath": "C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AD0615C-279E-40D7-989E-AD1B7D72A9E5}|Snake2.0\\Snake2.0.csproj|c:\\users\\aamen\\onedrive\\escritorio\\snake2.0\\snake2.0\\snake2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AD0615C-279E-40D7-989E-AD1B7D72A9E5}|Snake2.0\\Snake2.0.csproj|c:\\users\\aamen\\onedrive\\escritorio\\snake2.0\\snake2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AD0615C-279E-40D7-989E-AD1B7D72A9E5}|Snake2.0\\Snake2.0.csproj|solutionrelative:snake2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AD0615C-279E-40D7-989E-AD1B7D72A9E5}|Snake2.0\\Snake2.0.csproj|C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\Snake2.0\\snake2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AD0615C-279E-40D7-989E-AD1B7D72A9E5}|Snake2.0\\Snake2.0.csproj|C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\snake2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AD0615C-279E-40D7-989E-AD1B7D72A9E5}|Snake2.0\\Snake2.0.csproj|solutionrelative:snake2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AD0615C-279E-40D7-989E-AD1B7D72A9E5}|Snake2.0\\Snake2.0.csproj|c:\\users\\aamen\\onedrive\\escritorio\\snake2.0\\snake2.0\\snake2.0\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AD0615C-279E-40D7-989E-AD1B7D72A9E5}|Snake2.0\\Snake2.0.csproj|c:\\users\\aamen\\onedrive\\escritorio\\snake2.0\\snake2.0\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AD0615C-279E-40D7-989E-AD1B7D72A9E5}|Snake2.0\\Snake2.0.csproj|solutionrelative:snake2.0\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AD0615C-279E-40D7-989E-AD1B7D72A9E5}|Snake2.0\\Snake2.0.csproj|C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\Snake2.0\\snake2.0\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AD0615C-279E-40D7-989E-AD1B7D72A9E5}|Snake2.0\\Snake2.0.csproj|C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\snake2.0\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AD0615C-279E-40D7-989E-AD1B7D72A9E5}|Snake2.0\\Snake2.0.csproj|solutionrelative:snake2.0\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,19 +26,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "gameOver.cs",
-              "DocumentMoniker": "C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\Snake2.0\\Snake2.0\\gameOver.cs",
+              "DocumentMoniker": "C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\Snake2.0\\gameOver.cs",
               "RelativeDocumentMoniker": "Snake2.0\\gameOver.cs",
-              "ToolTip": "C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\Snake2.0\\Snake2.0\\gameOver.cs",
+              "ToolTip": "C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\Snake2.0\\gameOver.cs",
               "RelativeToolTip": "Snake2.0\\gameOver.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAmwCEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -49,35 +45,34 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "gameOver.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\Snake2.0\\Snake2.0\\gameOver.cs",
+              "DocumentMoniker": "C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\Snake2.0\\gameOver.cs",
               "RelativeDocumentMoniker": "Snake2.0\\gameOver.cs",
               "ToolTip": "C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\Snake2.0\\Snake2.0\\gameOver.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Snake2.0\\gameOver.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Snake2.0\\Snake2.0\\gameOver.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T04:56:48.272Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-03-02T04:56:48.272Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\Snake2.0\\Snake2.0\\Form1.cs",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\Snake2.0\\Form1.cs",
               "RelativeDocumentMoniker": "Snake2.0\\Form1.cs",
-              "ToolTip": "C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\Snake2.0\\Snake2.0\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Snake2.0\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\Snake2.0\\Form1.cs [Design]",
+              "RelativeToolTip": "Snake2.0\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T03:47:58.191Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\Snake2.0\\Snake2.0\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\Snake2.0\\Form1.cs",
               "RelativeDocumentMoniker": "Snake2.0\\Form1.cs",
-              "ToolTip": "C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\Snake2.0\\Snake2.0\\Form1.cs",
+              "ToolTip": "C:\\Users\\aamen\\OneDrive\\Escritorio\\Snake2.0\\Snake2.0\\Form1.cs",
               "RelativeToolTip": "Snake2.0\\Form1.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAYwIMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAIwPYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T01:36:00.455Z",
               "EditorCaption": ""
